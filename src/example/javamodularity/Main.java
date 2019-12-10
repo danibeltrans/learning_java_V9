@@ -10,9 +10,7 @@ public class Main {
 
         System.out.println("  ------ Optional  ");
         List l = null;
-
         Stream<Integer> s = Optional.ofNullable(l).orElseGet(() ->List.of(1,2,3)).stream();
-
         s.forEach(System.out::println);
 
 

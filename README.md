@@ -16,7 +16,6 @@ java --module-path out -m example/javamodularity/Main
 * or()
 * stream()
 
-
 ### Collection
 * New ImmutableCollections
 * Factory methods: of() 
@@ -27,3 +26,7 @@ java --module-path out -m example/javamodularity/Main
 
 ### Interface 
 * Private Methods 
+
+### Stream API 
+* dropWhile() 
+* takeWhile()

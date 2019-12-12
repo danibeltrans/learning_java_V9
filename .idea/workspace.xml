@@ -4,10 +4,7 @@
     <list default="true" id="be9dee7c-c136-466e-baab-5cdcb50fcb1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning_V9/example/javamodularity/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning_V9/example/javamodularity/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning_V9/example/javamodularity/Optional/OptionalStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning_V9/example/javamodularity/Optional/OptionalStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/javamodularity/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/javamodularity/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/example/javamodularity/Optional/OptionalStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/javamodularity/Optional/OptionalStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example/javamodularity/CollectionExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/javamodularity/CollectionExamples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +157,7 @@
       <updated>1574125527953</updated>
       <workItem from="1574125532969" duration="7563000" />
       <workItem from="1574620716408" duration="29642000" />
-      <workItem from="1575941856853" duration="2361000" />
+      <workItem from="1575941856853" duration="3021000" />
     </task>
     <servers />
   </component>
@@ -168,22 +165,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1358" height="317" key="GridCell.Tab.0.bottom" timestamp="1575944066745">
+    <state width="1398" height="335" key="GridCell.Tab.0.bottom" timestamp="1575944408360">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="317" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575944066745" />
-    <state width="1358" height="317" key="GridCell.Tab.0.center" timestamp="1575944066744">
+    <state width="1398" height="335" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575944408360" />
+    <state width="1398" height="335" key="GridCell.Tab.0.center" timestamp="1575944408359">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="317" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1575944066744" />
-    <state width="1358" height="317" key="GridCell.Tab.0.left" timestamp="1575944066743">
+    <state width="1398" height="335" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1575944408359" />
+    <state width="1398" height="335" key="GridCell.Tab.0.left" timestamp="1575944408358">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="317" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1575944066743" />
-    <state width="1358" height="317" key="GridCell.Tab.0.right" timestamp="1575944066744">
+    <state width="1398" height="335" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1575944408358" />
+    <state width="1398" height="335" key="GridCell.Tab.0.right" timestamp="1575944408359">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1358" height="317" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575944066744" />
+    <state width="1398" height="335" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575944408359" />
     <state x="386" y="223" width="667" height="476" key="find.popup" timestamp="1575944141913">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

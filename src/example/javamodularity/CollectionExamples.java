@@ -73,7 +73,7 @@ public class CollectionExamples {
 
         IntStream.iterate(1, i -> i < 100, i -> i + 1).forEach(System.out::println);
 
-        // dropWhile, takeWhile, ofNullable
+        // dropWhile, takeWhile
         //List<String> names = List.of("Smith", "Mark", "Julie", "Niki", "Sofia", "William", "Kevin", "Michel");
 
         List<String> names = List.of("Mark", "Michel", "Smith", "Julie", "Niki", "Sofia", "William", "Kevin");
@@ -95,9 +95,5 @@ public class CollectionExamples {
 
         // More info https://blog.indrek.io/articles/whats-new-in-java-9-streams/
 
-
-
     }
-
-
 }
